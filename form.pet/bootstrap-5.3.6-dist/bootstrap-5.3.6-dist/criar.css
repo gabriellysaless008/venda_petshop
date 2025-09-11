@@ -24,7 +24,7 @@
         }
         
         .terceira h1 {
-            color: #4F0C5C; /* Roxo escuro */
+            color: #4F0C5C;
             text-align: center;
             margin-bottom: 25px;
             font-size: 28px;
@@ -42,7 +42,7 @@
         .form-nome, .form-label {
             display: block;
             color: #555;
-            font-weight: 500;
+            font-weight: 600;
             margin-bottom: 8px;
             font-size: 14px;
         }
@@ -54,13 +54,13 @@
             border-radius: 6px;
             font-size: 14px;
             transition: all 0.3s ease;
-            background-color: #f9fafb; /* Cinza muito claro */
+            background-color: #f9fafb;
         }
         
         .form-control:focus {
             outline: none;
             border-color: #aaa;
-            background-color: #fff; /* Volta ao branco no foco */
+            background-color: #fff;
             box-shadow: 0 0 0 2px rgba(145, 47, 165, 0.1);
         }
         
@@ -70,7 +70,7 @@
         }
         
         .botao button {
-            background: #912FA5; /* Roxo escuro */
+            background: #912FA5;
             color: white;
             border: none;
             padding: 14px 30px;
@@ -83,7 +83,7 @@
         }
         
         .botao button:hover {
-            background: #4F0C5C; /* Roxo mais escuro para hover */
+            background: #4F0C5C;
         }
         
         .mt-3 {
@@ -94,14 +94,14 @@
         }
         
         .mt-3 a {
-            color: #912FA5; /* Roxo escuro */
+            color: #912FA5;
             text-decoration: none;
             font-weight: 500;
             transition: color 0.3s ease;
         }
         
         .mt-3 a:hover {
-            color: #4F0C5C; /* Roxo mais escuro */
+            color: #4F0C5C;
             text-decoration: underline;
         }
         
