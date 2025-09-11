@@ -33,7 +33,7 @@ h1 {
 }
 
 h3 {
-    color: #912FA5;
+    color: #4F0C5C;
     font-size: 18px;
     font-weight: 400;
     margin-bottom: 30px;
@@ -45,7 +45,7 @@ h3 {
 }
 
 .botao {
-    background-color: #912FA5; /* Alterado para a cor 4F0C5C */
+    background-color: #4F0C5C; /* Alterado para a cor 4F0C5C */
     color: white;
     border: none;
     padding: 16px 40px;
