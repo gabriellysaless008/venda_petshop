@@ -45,7 +45,7 @@ h3 {
 }
 
 .botao {
-    background-color: #4F0C5C; /* Alterado para a cor 4F0C5C */
+    background-color: #4F0C5C;
     color: white;
     border: none;
     padding: 16px 40px;
@@ -58,7 +58,7 @@ h3 {
 }
 
 .botao:hover {
-    background-color: #4F0C5C; /* Alterado para a cor 912FA5 no hover */
+    background-color: #4F0C5C;
     transform: translateY(-2px);
     box-shadow: 0 5px 15px rgba(145, 47, 165, 0.3);
 }
