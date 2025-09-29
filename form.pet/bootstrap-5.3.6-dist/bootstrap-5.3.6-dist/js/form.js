@@ -14,3 +14,8 @@ function criarContaUsuario(){
     const telefone = document.getElementById("telefone").value;
     
 }
+
+
+function teste(){
+    
+}
